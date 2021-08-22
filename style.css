@@ -1,0 +1,22 @@
+
+body {
+    background-color:rgb(236, 225, 236);
+}
+
+h1 {
+    color:black;
+}
+
+h2 {
+    font-family:'Times New Roman', Times, serif
+}
+
+.title {
+        text-align: center;
+}
+
+li {list-style: none;}
+
+.miharamountain {
+    display: flex;
+}

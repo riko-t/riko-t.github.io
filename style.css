@@ -1,22 +1,26 @@
 
 body {
     background-color:rgb(85, 231, 219);
-    background-image: url("https://i.ibb.co/YDCLtvN/IMG-8150-2.jpg");
-    background-position: top;
-    background-size:contain;
-    background-repeat: no-repeat;
-}
-
-h1 {
-    color:black;
-}
-
-h2 {
-    font-family:'Times New Roman', Times, serif
 }
 
 .title {
         text-align: center;
+        height: 500px;
+        background-image: url("https://i.ibb.co/YDCLtvN/IMG-8150-2.jpg");
+        background-position: top;
+        background-size:contain;
+        background-repeat: no-repeat;
+}
+
+.title-text {
+            padding-top: 160px;
+            padding-bottom: 160px;
+            letter-spacing: 0.2em;
+            color: white;
+}
+
+.text-title h2 {
+    font-family:'Courier';
 }
 
 li {list-style: none;}

@@ -1,6 +1,9 @@
 
 body {
     background-color:rgb(236, 225, 236);
+    background-image: url("https://i.ibb.co/YDCLtvN/IMG-8150-2.jpg";)
+    background-position: top;
+    background-size:contain;
 }
 
 h1 {
@@ -18,5 +21,29 @@ h2 {
 li {list-style: none;}
 
 .miharamountain {
-    display: flex;
+                 display: flex;
+}
+
+.tyuuoukakou {
+            display: flex;
+}
+
+.urasabaku {
+             display: flex;
+}
+
+.ziorockgarden {
+                display: flex;
+}
+
+.saiseinoipponmichi {
+                    display: flex;
+}
+
+.tisoudaisetudanmen {
+                     display: flex;
+}
+
+.divinginakinohama {
+                    display: flex;
 }

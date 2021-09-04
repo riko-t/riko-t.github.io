@@ -29,6 +29,11 @@ li {list-style: none;}
                  display: flex;
 }
 
+.mihara {
+        padding-right: 20px;
+        padding-left: 20px;
+}
+
 .tyuuoukakou {
             display: flex;
 }
@@ -41,18 +46,47 @@ li {list-style: none;}
              display: flex;
 }
 
+.ura {
+    padding-right: 20px;
+    padding-left: 20px;
+}
 .ziorockgarden {
                 display: flex;
+}
+
+.zio {
+    padding-right: 20px;
+    padding-left: 20px;
 }
 
 .saiseinoipponmichi {
                     display: flex;
 }
 
+.ituka {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.komorebi {
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
 .tisoudaisetudanmen {
                      display: flex;
 }
 
+.tisou {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
 .divinginakinohama {
                     display: flex;
+}
+
+.diving {
+    padding-right: 20px;
+    padding-left: 20px;
 }
